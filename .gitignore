@@ -1,1 +1,1 @@
-*.application.properties
+/restful-web-services/src/main/resources/application.properties
